@@ -1,4 +1,9 @@
-![logo](https://github.com/VamshiRk27/VamshiRk27/blob/main/Logo's/Eat%20sleep%20code.jpg)
+
+<h1 align="center">
+  <a align="center" href="https://git.io/typing-svg">
+    <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Libre+Franklin&center=true&size=28&vCenter=true&width=500&height=70&duration=3000&lines=Hey+There!+👋;+I'm+Vamshi+Rk.">
+  </a>
+</h1>
 <h1 align="center">Vamshi Reddy </h1>
 
 ### Hi Everyone 👋
@@ -18,7 +23,7 @@ I love to code most in : <img src="https://github.com/VamshiRk27/VamshiRk27/blob
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=vamshirk27&label=Profile%20views&color=0e75b6&style=flat" alt="vamshirk27" /> </p>
 
 <h2 align="left">Technologies and Frameworks i love to work on:</h2>
-<img  align="right" alt="Code" width="400" src="https://updategadh.com/wp-content/uploads/2023/07/Java-web-project-configuration.gif"/>
+<img align="right" alt="Code" width="400" src="https://updategadh.com/wp-content/uploads/2023/07/Java-web-project-configuration.gif"/>
 
 <h4>I code with:</h4>
 <div align="left">
@@ -53,19 +58,32 @@ I love to code most in : <img src="https://github.com/VamshiRk27/VamshiRk27/blob
 
 
 
+<br>
 
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/vamshirk/" target="blank"><img align="center" height="40" width="40" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>
-<a href="https://www.hackerrank.com/profile/vaark1827" target="blank"><img align="center" width="30" height="30" src="https://img.icons8.com/windows/32/000000/hackerrank.png" alt="hackerrank"/></a>
-<a href="https://leetcode.com/Vamshir_k/" target="blank"><img align="center" width="30" height="30" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo"/></a>
-<a href="https://auth.geeksforgeeks.org/user/vamshirk" target="blank"><img align="center" width="40" height="35" src="https://img.icons8.com/color/48/GeeksforGeeks.png" alt="GeeksforGeeks"/></a>
+<h3 align="left">My Profiles:</h3>
+<div align="left" margin="0">
+<a href="https://www.linkedin.com/in/vamshirk/" target="_blank"><img align="center" height="40" width="40" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>
+<a href="https://www.hackerrank.com/profile/vaark1827" target="_blank"><img align="center" width="30" height="30" src="https://img.icons8.com/windows/32/000000/hackerrank.png" alt="hackerrank"/></a>
+<a href="https://leetcode.com/Vamshir_k/" target="_blank"><img align="center" width="30" height="30" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo"/></a>
+<a href="https://auth.geeksforgeeks.org/user/vamshirk" target="_blank"><img align="center" width="40" height="35" src="https://img.icons8.com/color/48/GeeksforGeeks.png" alt="GeeksforGeeks"/></a>
 <img width="12" />
-<a href="https://www.codingninjas.com/studio/profile/VamshiRk" target="blank"><img align="center" src="https://asset.brandfetch.io/idQVGbrvGL/idhgFUNid6.svg" alt="abc" height="70" width="90" /></a>
-</p>
+<a href="https://www.codingninjas.com/studio/profile/VamshiRk" target="_blank"><img align="center" src="https://asset.brandfetch.io/idQVGbrvGL/idhgFUNid6.svg" alt="CodingNinjas" height="30" width="90" /></a>
+</div>
+<hr>
+<br>
+
+
+<div>
+  <div align="right" width="45%">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VamshiRk27&layout=compact" />
+  </a>
+  <div align="left" width="45%">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VamshiRk27&show_icons=true&theme=transparent" />
+  </div>
+</div>
+<hr>
+
+
 
 
 
