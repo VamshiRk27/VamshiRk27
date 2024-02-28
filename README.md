@@ -77,6 +77,7 @@ I love to code most in : <img src="https://github.com/VamshiRk27/VamshiRk27/blob
   <div align="right" width="45%">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VamshiRk27&layout=compact" />
   </div>
+  <br>
   <div align="left" width="45%">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VamshiRk27&show_icons=true&theme=transparent" />
   </div>
